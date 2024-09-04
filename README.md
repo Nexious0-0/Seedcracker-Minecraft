@@ -9,8 +9,7 @@
 
 ## I'm active on:
 
-- [My Discord](https://discord.gg/JRmHzqQYfp)
-- [Youtube](https://www.youtube.com/channel/UCby9ZxEjJCqmccQGF3GSYlA)
+- [My Discord]()
 
 # Version Tab
 
